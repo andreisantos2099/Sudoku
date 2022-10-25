@@ -1,5 +1,5 @@
 # Sudoku
-This python script can solve Sudoku 9x9 size, you just need select the example excel file ("Sudoku.xls"), this file has Sudoku to be solved.
+This python script can solve any Sudoku 9x9 size, you just need load up the excel file example "Sudoku.xls" when prompted, this file has a Sudoku to be solved.
 
 Main idea of this algorithm is to solve any sudoku 9x9 size. The sudoku cells and sectors are split as following:
 	
